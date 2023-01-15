@@ -39,10 +39,7 @@ posts = "/posts/:year/:month/:day/:slug/"
     name = "English"
     url = "/"
     weight = 3
-[[menu.cn]]
-    name = "关于我"
-    url = "/cn/me/"
-    weight = 4
+
 
 [params]
     description = "Peronal website of Yuanxi Li"
