@@ -1,4 +1,4 @@
-baseURL = "https://yuanxil.com/"
+baseURL = "https://example.com/"
 languageCode = "en-us"
 title = "Hugo-HT"
 theme = "hugo-ht"
@@ -39,10 +39,6 @@ posts = "/posts/:year/:month/:day/:slug/"
     name = "English"
     url = "/"
     weight = 3
-[[menu.cn]]
-    name = "关于我"
-    url = "/cn/me/"
-    weight = 4
 
 [params]
     description = "Peronal website of Your Name"
