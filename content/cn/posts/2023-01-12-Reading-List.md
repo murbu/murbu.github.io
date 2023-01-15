@@ -1,5 +1,5 @@
 ---
-title: "2023 01 12 Reading List"
+title: "Reading List"
 date: 2023-01-12T13:03:45-08:00
 author: "Yuanxi Li"
 slug:
