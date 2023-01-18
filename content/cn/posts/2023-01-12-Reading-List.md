@@ -1,10 +1,11 @@
 ---
 title: "Reading List"
 date: 2023-01-12T13:03:45-08:00
-author: "Yuanxi Li"
-slug:
+author: "李元希"
+slug: reading-list
 draft: false
 toc: false
+tags: Reading
 ---
 
 ### January
