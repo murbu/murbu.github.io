@@ -1,6 +1,6 @@
 ---
 title: "Reading List"
-date: 2023-01-17T13:03:45-08:00
+date: 2023-01-12T13:03:45-08:00
 author: "Yuanxi Li"
 slug:
 draft: false
