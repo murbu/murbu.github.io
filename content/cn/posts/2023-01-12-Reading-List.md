@@ -1,5 +1,5 @@
 ---
-title: "Reading List"
+title: "阅读清单"
 date: 2023-01-12T13:03:45-08:00
 author: "李元希"
 slug: reading-list
