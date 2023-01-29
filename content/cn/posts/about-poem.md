@@ -1,7 +1,7 @@
 ---
 title: "聊聊写诗"
 date: 2023-01-24T14:16:44-08:00
-author: "Yuanxi Li"
+author: "李元希"
 slug: "Aboutpoem"
 draft: false
 toc: true
