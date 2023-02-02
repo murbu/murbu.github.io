@@ -4,7 +4,7 @@ date: 2023-02-01T19:47:34-08:00
 author: "Yuanxi Li"
 slug:
 draft: false
-toc: false
+toc: true
 ---
 ## Several ways of looking at a thrush
 
@@ -13,7 +13,7 @@ toc: false
 The story starts with the photo I took last week. When I saw many birds feeding on the dewy lawn, I walked past the Denny Yard with my camera at around 10 am. The sky was overcast, and the shutter speed couldn't be high. Although I took dozens of shots, it's hard to find clear pictures. Of the dozens, I picked out only this one with cropped and added extra clarity.<br /><br />
 
 {{<figure src="/files/thrush.jpg">}}
-
+<br /><br />
 I like it. Dewdrops are soft, as with a diffusion camera filter.<br /><br />
 
 There's a question, what kind of bird is it?<br /><br />
@@ -80,7 +80,7 @@ The Chinese Hwamei, 画眉/ Garrulax canorus, is a famous traditional Chinese ca
 
 As the name implies, the Hermit Thrush (隐夜鸫/Catharus obscurus) is a nocturnal thrush known for its activity in dark environments and sensitive voice.<br /><br />
 
-Walt Whitman wrote in <a href="https://www.poetryfoundation.org/poems/45480/when-lilacs-last-in-the-dooryard-bloomd">When Lilacs Last in the Dooryard Bloom’d</a><br /><br />
+Walt Whitman wrote in <a href="https://www.poetryfoundation.org/poems/45480/when-lilacs-last-in-the-dooryard-bloomd">When Lilacs Last in the Dooryard Bloom’d</a><br>
 
 > In the swamp in secluded recesses,  <br>
 > A shy and hidden bird is warbling a song.  <br>
