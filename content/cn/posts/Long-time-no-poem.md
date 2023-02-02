@@ -7,7 +7,6 @@ draft: false
 toc: false
 ---
 
-### Long Time No Poem
 
 1.
 
