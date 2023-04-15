@@ -7,7 +7,7 @@ draft: false
 toc: false
 ---
 
-{{<figure src="/files/cherry1.jpg" class="fullwidth"> }}
+{{<figure src="/files/cherry1.jpg"> }}
 
 <br />
 <br />
