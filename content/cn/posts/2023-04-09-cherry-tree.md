@@ -1,28 +1,10 @@
 ---
-title: "2023 04 09 Cherry Tree"
+title: "Cherry Tree"
 date: 2023-04-09T12:30:34-07:00
 author: "李元希"
 slug:
-draft: false
+draft: true
 toc: false
 ---
 
-{{<figure src="/files/cherry1.jpg"> }}
-
-<br />
-<br />
-
-{{<columns>}}
-
-{{<figure src="/files/cherry4.jpg" >}}
-
-{{<column>}}
-
-{{<figure src="/files/cherry5.jpg" >}}
-
-{{<endcolumn>}}
-
-<br />
-<br />
-
-{{<bilibili 1097280387>}}
+nothing
