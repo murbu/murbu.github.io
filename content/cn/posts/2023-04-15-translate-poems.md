@@ -38,7 +38,8 @@ toc: false
 
 # since feeling is first
   *—e. e. cummings*
-
+<br />
+<br />
 since feeling is first<br>
 who pays any attention<br>
 to the syntax of things<br>
@@ -94,3 +95,33 @@ And death i think is no parenthesis
 我们应该疯狂，毫无疑问地，这般死去。
 <br />
 <br />
+
+# The Cool Web
+  *—Robert Graves*
+<br />
+<br />
+Children are dumb to say how hot the day is,
+How hot the scent is of the summer rose,
+How dreadful the black wastes of evening sky,
+How dreadful the tall soldiers drumming by,
+<br />
+<br />
+But we have speech, to chill the angry day,
+And speech, to dull the roses's cruel scent,
+We spell away the overhanging night,
+We spell away the soldiers and the fright.
+<br />
+<br />
+There's a cool web of language winds us in,
+Retreat from too much joy or too much fear:
+We grow sea-green at last and coldly die
+In brininess and volubility.
+<br />
+<br />
+But if we let our tongues lose self-possession,
+Throwing off language and its watery clasp
+Before our death, instead of when death comes,
+Facing the wide glare of the children's day,
+Facing the rose, the dark sky and the drums,
+We shall go mad, no doubt, and die that way.
+
