@@ -12,15 +12,15 @@ toc: false
 <br />
 <br />
 
-{{< columns >}}
+{{<columns>}}
 
-{{<figure-a src="/files/cherry4.jpg" >}}
+{{<figure src="/files/cherry4.jpg" >}}
 
-{{< column >}}
+{{<column>}}
 
-{{<figure-a src="/files/cherry5.jpg" >}}
+{{<figure src="/files/cherry5.jpg" >}}
 
-{{< endcolumn >}}
+{{<endcolumn>}}
 
 <br />
 <br />
