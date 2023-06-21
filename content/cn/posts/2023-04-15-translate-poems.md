@@ -126,13 +126,3 @@ Facing the rose, the dark sky and the drums,
 We shall go mad, no doubt, and die that way.
 <br />
 <br />
-
-我好恼火
-我真是服了
-怎么还不好
-how about this time??
-
-zzenm lalalla
-永远年轻
-永远都是问题
-git remote set-url origin https://github.com/murbu/murbu.github.io.git
