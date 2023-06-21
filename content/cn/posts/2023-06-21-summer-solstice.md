@@ -2,7 +2,7 @@
 title: "2023 06 21 Summer Solstice"
 date: 2023-06-21T12:42:26-07:00
 author: "李元希"
-slug:
+slug: "summer-solstice"
 draft: false
 toc: false
 ---
