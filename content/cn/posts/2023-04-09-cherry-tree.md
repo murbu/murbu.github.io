@@ -11,3 +11,19 @@ toc: false
 {{< bilibili 910019727 >}}
 
 {{<figure src="/files/cherry.JPG">}}
+
+{{<figure src="/files/cherry2.JPG">}}
+{{<figure src="/files/cherry3.JPG">}}
+
+{{< columns >}}
+
+{{<figure src="/files/cherry4.JPG">}}
+
+{{< column >}}
+
+{{<figure src="/files/cherry5.JPG">}}
+
+{{< endcolumn >}}
+
+
+{{<figure src="/files/cherry6.JPG">}}
