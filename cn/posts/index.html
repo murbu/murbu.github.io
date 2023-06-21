@@ -1,14 +1,152 @@
-<!doctype html><html lang=en-us><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><title>yuanxil</title><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css><link rel=stylesheet href=/css/style.css><link rel=stylesheet href=/css/fonts.css><link href=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css rel=stylesheet><script src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js></script><script src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/r.min.js></script><script src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/bash.min.js></script><script src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/python.min.js></script><script src=https://cdn.jsdelivr.net/npm/vega@5.17.0></script><script src=https://cdn.jsdelivr.net/npm/vega-lite@4.17.0></script><script src=https://cdn.jsdelivr.net/npm/vega-embed@6.12.2></script><script>hljs.initHighlightingOnLoad();</script><link rel=icon href=https://yuanxil.com/files/logo.ico></head><body><div class=wrapper><header class=header><nav class=nav><a href=/ class=nav-logo><img src=/files/logo.ico width=50 height=50 alt=Hugo-ht></a><ul class=nav-links><li><a href=/cn/about/>关于</a></li><li><a href=/cn/posts/>日志</a></li><li><a href=/>English</a></li></ul></nav></header><main class=content><div class=list-page><h2 id=我的博客>我的博客</h2><ul><h2 style=text-align:left>2023</h2><p><span class=date>2023-03-01</span>
-<a href=/cn/2023/03/01/%E8%AF%BB%E7%BA%A2%E6%A5%BC%E6%A2%A6%E5%92%8C%E4%BA%8C%E6%9C%88%E4%BB%BD%E4%B8%80%E6%9C%AC%E4%B9%A6%E9%83%BD%E6%B2%A1%E7%9C%8B/>读《红楼梦》，和二月份一本书都没看。</a></p><p><span class=date>2023-02-15</span>
-<a href=/cn/2023/02/15/tenthings/>消失于互联网时代的十件事</a></p><p><span class=date>2023-02-12</span>
-<a href=/cn/2023/02/12/poetry-night/>诗歌之夜</a></p><p><span class=date>2023-02-01</span>
-<a href=/cn/2023/02/01/several-ways-of-looking-at-thrush/>观察鸫鸟的数种方式</a></p><p><span class=date>2023-01-31</span>
-<a href=/cn/2023/01/31/%E5%A5%BD%E6%92%91/>好撑</a></p><p><span class=date>2023-01-28</span>
-<a href=/cn/2023/01/28/reading-forms/>看书的形式</a></p><p><span class=date>2023-01-27</span>
-<a href=/cn/2023/01/27/%E5%A4%9A%E5%B0%91%E6%97%A5%E5%AD%90/>多少日子</a></p><p><span class=date>2023-01-24</span>
-<a href=/cn/2023/01/24/aboutpoem/>聊聊写诗</a></p><p><span class=date>2023-01-17</span>
-<a href=/cn/2023/01/17/long-time-no-poem/>Long Time No Poem</a></p><p><span class=date>2023-01-12</span>
-<a href=/cn/2023/01/12/reading-list/>阅读清单</a></p></ul></div></main><footer class=footer><script type=text/javascript src=/js/math-code.js></script><script async src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script><script type=text/javascript src=/js/center-img.js></script><ul class=footer-links><li><a href=/cn/posts/index.xml type=application/rss+xml title="RSS feed">订阅</a></li><li><a href=http://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh target=_blank>版权
-<i class="fa fa-cc" aria-hidden=true title="Attribution-NonCommercial-ShareAlike 4.0 International"></i></a></li></ul><div class=copyright-text>©
+<!doctype html><html lang=en-us>
+<head>
+<meta charset=utf-8>
+<meta name=viewport content="width=device-width,initial-scale=1">
+<title>yuanxil</title>
+<link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css>
+<link rel=stylesheet href=/css/style.css>
+<link rel=stylesheet href=/css/fonts.css>
+<link href=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css rel=stylesheet>
+<script src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js></script>
+<script src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/r.min.js></script>
+<script src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/bash.min.js></script>
+<script src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/python.min.js></script>
+<script src=https://cdn.jsdelivr.net/npm/vega@5.17.0></script>
+<script src=https://cdn.jsdelivr.net/npm/vega-lite@4.17.0></script>
+<script src=https://cdn.jsdelivr.net/npm/vega-embed@6.12.2></script>
+<script>hljs.initHighlightingOnLoad()</script>
+<link rel=icon href=https://yuanxil.com/files/logo.ico>
+</head>
+<body>
+<div class=wrapper>
+<header class=header>
+<nav class=nav>
+<a href=/ class=nav-logo>
+<img src=/files/logo.ico width=50 height=50 alt=Hugo-ht>
+</a>
+<ul class=nav-links>
+<li><a href=/cn/about/>关于</a></li>
+<li><a href=/cn/posts/>日志</a></li>
+<li><a href=/>English</a></li>
+</ul>
+</nav>
+</header>
+<main class=content>
+<div class=list-page>
+<h2 id=我的博客>我的博客</h2>
+<ul>
+<h2 style=text-align:left>2023</h2>
+<p>
+<span class=date>
+2023-04-15
+</span>
+<a href=/cn/2023/04/15/translate-poems/>
+Translate Poems
+</a>
+</p>
+<p>
+<span class=date>
+2023-03-01
+</span>
+<a href=/cn/2023/03/01/%E8%AF%BB%E7%BA%A2%E6%A5%BC%E6%A2%A6%E5%92%8C%E4%BA%8C%E6%9C%88%E4%BB%BD%E4%B8%80%E6%9C%AC%E4%B9%A6%E9%83%BD%E6%B2%A1%E7%9C%8B/>
+读《红楼梦》，和二月份一本书都没看。
+</a>
+</p>
+<p>
+<span class=date>
+2023-02-15
+</span>
+<a href=/cn/2023/02/15/tenthings/>
+消失于互联网时代的十件事
+</a>
+</p>
+<p>
+<span class=date>
+2023-02-12
+</span>
+<a href=/cn/2023/02/12/poetry-night/>
+诗歌之夜
+</a>
+</p>
+<p>
+<span class=date>
+2023-02-01
+</span>
+<a href=/cn/2023/02/01/several-ways-of-looking-at-thrush/>
+观察鸫鸟的数种方式
+</a>
+</p>
+<p>
+<span class=date>
+2023-01-31
+</span>
+<a href=/cn/2023/01/31/%E5%A5%BD%E6%92%91/>
+好撑
+</a>
+</p>
+<p>
+<span class=date>
+2023-01-28
+</span>
+<a href=/cn/2023/01/28/reading-forms/>
+看书的形式
+</a>
+</p>
+<p>
+<span class=date>
+2023-01-27
+</span>
+<a href=/cn/2023/01/27/%E5%A4%9A%E5%B0%91%E6%97%A5%E5%AD%90/>
+多少日子
+</a>
+</p>
+<p>
+<span class=date>
+2023-01-24
+</span>
+<a href=/cn/2023/01/24/aboutpoem/>
+聊聊写诗
+</a>
+</p>
+<p>
+<span class=date>
+2023-01-17
+</span>
+<a href=/cn/2023/01/17/long-time-no-poem/>
+Long Time No Poem
+</a>
+</p>
+<p>
+<span class=date>
+2023-01-12
+</span>
+<a href=/cn/2023/01/12/reading-list/>
+阅读清单
+</a>
+</p>
+</ul>
+</div>
+</main>
+<footer class=footer>
+<script type=text/javascript src=/js/math-code.js></script>
+<script async src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<script type=text/javascript src=/js/center-img.js></script>
+<ul class=footer-links>
+<li><a href=/cn/posts/index.xml type=application/rss+xml title="RSS feed">
+订阅 </a>
+</li>
+<li>
+<a href=http://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh target=_blank>
+版权
+<i class="fa fa-cc" aria-hidden=true title="Attribution-NonCommercial-ShareAlike 4.0 International"></i>
+</a>
+</li>
+</ul>
+<div class=copyright-text>
+©
 李元希
-2023-</div></footer><div style=text-align:center;color:gray;margin-top:-20px;font-size:19px;margin-bottom:10px></div>
+2023-
+</div>
+</footer>
+<div style=text-align:center;color:gray;margin-top:-20px;font-size:19px;margin-bottom:10px>
+</div>
