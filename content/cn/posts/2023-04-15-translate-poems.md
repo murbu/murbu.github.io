@@ -133,4 +133,6 @@ We shall go mad, no doubt, and die that way.
 how about this time??
 
 zzenm lalalla
-git remote set-url origin 
+永远年轻
+永远都是问题
+git remote set-url origin https://github.com/murbu/murbu.github.io.git
