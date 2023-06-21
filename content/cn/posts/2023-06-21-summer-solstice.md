@@ -1,5 +1,5 @@
 ---
-title: "2023 06 21 Summer Solstice"
+title: "夏至前夜"
 date: 2023-06-21T12:42:26-07:00
 author: "李元希"
 slug: "summer-solstice"
