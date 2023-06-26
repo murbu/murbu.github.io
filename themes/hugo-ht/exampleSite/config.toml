@@ -28,17 +28,21 @@ posts = "/posts/:year/:month/:day/:slug/"
     url = "/cn/posts/"
     weight = 4
 [[menu.cn]]
+    name = "主页"
+    url = "/"
+    weight = 2
+[[menu.cn]]
     name = "关于"
     url = "/cn/about/"
-    weight = 1
+    weight = 2
 [[menu.cn]]
     name = "日志"
     url = "/cn/posts/"
-    weight = 2
+    weight = 3
 [[menu.cn]]
     name = "English"
     url = "/"
-    weight = 3
+    weight = 4
 
 [params]
     description = "Peronal website of Your Name"
