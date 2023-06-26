@@ -41,7 +41,7 @@ posts = "/posts/:year/:month/:day/:slug/"
     weight = 3
 [[menu.cn]]
     name = "English"
-    url = "/"
+    url = "/en/posts/"
     weight = 4
 
 [params]
@@ -53,7 +53,7 @@ posts = "/posts/:year/:month/:day/:slug/"
     defaultLang = "en"
     MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs" 
     MathJaxVersion = "2.7.5"
-    favicon = "media/hugo-logo.png"
+    favicon = "files/logo.ico"
     # Edit by yourself:
     GithubEdit = "https://github.com/USERNAME/REPONAME/edit/master/content/"
     copyright = "&copy;"
@@ -65,7 +65,7 @@ posts = "/posts/:year/:month/:day/:slug/"
 
 [params.logo]
   # Change the logo picture as your prefer:
-  url = "media/hugo-logo.png" # you can change it
+  url = "files/logo.ico" # you can change it
   width = 50.0
   height = 50.0
   alt = "Hugo-ht"
