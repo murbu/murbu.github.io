@@ -1,6 +1,6 @@
 ---
 title: "夏日随记"
-date: 2023-06-21T13:40:36-07:00
+date: 2023-05-25T13:40:36-07:00
 author: "李元希"
 slug: "summer-notes"
 draft: false

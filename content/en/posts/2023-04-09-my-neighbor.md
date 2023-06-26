@@ -1,6 +1,6 @@
 ---
 title: "A Man In A Hurry"
-date: 2023-06-21T13:36:17-07:00
+date: 2023-04-09T13:36:17-07:00
 author: "Yuanxi Li"
 slug: "a-man-in-a-hurry"
 draft: false
