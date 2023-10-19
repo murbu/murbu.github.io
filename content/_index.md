@@ -11,11 +11,11 @@ toc: false
 <br />
 <br />
 <div align="center">
-Nice to meeet you! This is Yuanxi Li.
+Nice to meet you! This is Yuanxi Li.
 <br>
 不是诗人。<br />
 <br />
-{{<figure src="/files/wx.png">}} <a href=https://mp.weixin.qq.com/s/XBrGu85AZQpTnPfz1sEu8Q>太阳 月亮和瞎想八想</a><br>
 {{<figure src="/files/linkedin.png">}} <a href=https://www.linkedin.com/in/yuanxi-li-614370293>Yuanxi Li</a><br />
+{{<figure src="/files/wx.png">}} <a href=https://mp.weixin.qq.com/s/XBrGu85AZQpTnPfz1sEu8Q>太阳 月亮和瞎想八想</a><br>
 	<br />
 </div>
