@@ -3,7 +3,7 @@ title: "Discover Journey: Bufflehead"
 date: 2023-11-15
 author: Yuanxi Li
 slug: bufflehead
-draft: true
+draft: false
 toc: false
 categories:
 tags:
