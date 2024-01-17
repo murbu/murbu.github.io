@@ -1,16 +1,42 @@
 ---
-title: "Discover Journey: Bufflehead"
+title: "记喷泉结冰"
 date: 2023-11-15
-author: Yuanxi Li
-slug: bufflehead
+author: 李元希
+slug: "frozen-fountain"
 draft: false
 toc: false
 categories:
 tags:
 ---
-{{<figure src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Bucephala-albeola-007.jpg" caption="From Wiki" class="fullwidth">}}
 
-On my way from the Suzzallo Library to the Health Science Library, I passed by the fountain. Today is bright but cold, and the fountain wasn't running. Only waves, blown by the wind, and ripples remained. Wearing my earphones, I was seized by a whim to sit on the stone bench for a while. Several water birds were swimming and diving in the pond made by the fountain. The stone bench was too cold to sit on. I had to stand up, but my eyes remained fixed on the water. These black and white birds were quite different from the usual Canada geese or mallards. Some of them had white bodies with black backs. Their heads were black, but the backsides were white. Others, without these distinct markings, had brown or gray bodies. Their heads were black, and their cheeks white, as if they had a little paint smeared on their faces. Uncommon visitors indeed!
+# 记喷泉结冰
+
+散落的冰块<br>
+不知它从何而来<br />
 <br />
+
+每个人<br>
+都为它停下脚步<br>
+多一分钟<br />
 <br />
-I opened my ChatGPT, gave it some keywords: "waterfowl, white body, black on the back, black on the top of the head, male and female may be differently colored, smaller than ducks, seen in Seattle in winter." Then I asked: "What kind of bird might this be?" It lived up to my expectations and quickly replied, "these birds may be Buffleheads." Comparing pictures of Buffleheads with what I saw, I'm sure they were Buffleheads. Since they were in the center of the fountain, about fifteen yards away, I hadn't noticed that the male Buffleheads have a purple-green iridescence on their heads. [Then I learned that this iridescence can be hard to see.](https://www.allaboutbirds.org/guide/Bufflehead/id#) Some interesting behaviors I observed were also confirmed in my later research: they would dive as a group, disappear underwater for a while, and then resurface, at which point they were hardly visible above water. They also don't appear in flocks like other ducks, but [are less sociable](https://www.audubon.org/field-guide/bird/bufflehead). I only saw six of them. Similar Species: [Hooded Merganser](https://www.allaboutbirds.org/guide/Hooded_Merganser/id), [Harlequin Duck](https://www.allaboutbirds.org/guide/Harlequin_Duck/id), [Common Goldeneye](https://www.allaboutbirds.org/guide/Common_Goldeneye/id), [Barrow's Goldeneye](https://www.allaboutbirds.org/guide/Barrows_Goldeneye/id). They are all pretty.
+
+只走过一次的捷径<br>
+我再一次找它<br>
+下坡、下坡<br>
+是上一次的我<br>
+留给自己的<br />
+<br />
+
+树枝被掷入水中<br>
+——咚<br>
+没有共振<br>
+不甚沉重<br />
+<br />
+
+这路能否抵达终点<br>
+不过我已经走上去了<br />
+<br />
+
+只是冰面<br>
+命悬一线<br />
+<br />
