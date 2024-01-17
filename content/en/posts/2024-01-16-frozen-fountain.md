@@ -1,6 +1,6 @@
 ---
 title: "Frozen Fountain"
-date: 2023-11-15
+date: 2024-1-16
 author: Yuanxi Li
 slug: "frozen-fountain"
 draft: false
@@ -8,7 +8,7 @@ toc: false
 categories:
 tags:
 ---
-{{<figure src="/files/frozen-fountain.JPG">}}
+{{<figure src="/files/frozen-fountain.jpg">}}
 
 Inscribed in ice, the fountain's rest,<br>
 Scattered chunks of frost suggest<br>
