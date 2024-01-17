@@ -1,6 +1,6 @@
 ---
 title: "Frozen Fountain"
-date: 2024-1-16
+date: 2024-01-16
 author: Yuanxi Li
 slug: "frozen-fountain"
 draft: false
