@@ -17,9 +17,15 @@ by Stephen B. Heard
 (a book from library I returned late)
 
 ## Getting Started
-```
-$A \propto \frac{E \cdot V}{\Gamma \cdot D}$
-```
+<math>
+  <mi>A</mi>
+  <mo>∝</mo>
+  <mfrac>
+    <mrow><mi>E</mi> <mo>⋅</mo> <mi>V</mi></mrow>
+    <mrow><mi>Γ</mi> <mo>⋅</mo> <mi>D</mi></mrow>
+  </mfrac>
+</math>
+
 Let's go through this formula step by step. 
 
 - The **numerator** (the top part of the fraction) shows that how attractive a task is **increases** when you have more confidence in completing it (**E: Expectancy**). If you believe you can successfully finish the task, you're more likely to start.
