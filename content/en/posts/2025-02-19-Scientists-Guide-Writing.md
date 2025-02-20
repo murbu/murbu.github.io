@@ -14,7 +14,7 @@ tags:
 </a>
 by Stephen B. Heard
 
-(the book I returned late)
+(A book I returned late)
 
 ## Getting Started
 ```
