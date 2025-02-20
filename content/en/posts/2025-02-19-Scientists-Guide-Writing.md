@@ -18,7 +18,7 @@ by Stephen B. Heard
 
 ## Getting Started
 ```
-\( A \propto \frac{E \cdot V}{\Gamma \cdot D} \)
+$A \propto \frac{E \cdot V}{\Gamma \cdot D}$
 ```
 Let's go through this formula step by step. 
 
