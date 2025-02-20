@@ -3,7 +3,7 @@ title: "译诗两首"
 date: 2023-04-15T12:29:58-07:00
 author: "李元希"
 slug:
-draft: true
+draft: false
 toc: false
 ---
 
