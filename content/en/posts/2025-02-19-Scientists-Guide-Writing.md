@@ -12,19 +12,21 @@ tags:
 <a href="https://www.goodreads.com/book/show/27311903-the-scientist-s-guide-to-writing?from_search=true&from_srp=true&qid=fffaUlud33&rank=1" target="_blank">
     The Scientist's Guide to Writing
 </a>
-by Stephen B. Heard
+ by Stephen B. Heard
 
 (a book from library I returned late)
 
 ## Getting Started
-<math>
-  <mi>A</mi>
-  <mo>∝</mo>
-  <mfrac>
-    <mrow><mi>E</mi> <mo>⋅</mo> <mi>V</mi></mrow>
-    <mrow><mi>Γ</mi> <mo>⋅</mo> <mi>D</mi></mrow>
-  </mfrac>
-</math>
+<div style="text-align: center;">
+  <math>
+    <mi>A</mi>
+    <mo>∝</mo>
+    <mfrac>
+      <mrow><mi>E</mi> <mo>⋅</mo> <mi>V</mi></mrow>
+      <mrow><mi>Γ</mi> <mo>⋅</mo> <mi>D</mi></mrow>
+    </mfrac>
+  </math>
+</div>
 
 Let's go through this formula step by step. 
 
