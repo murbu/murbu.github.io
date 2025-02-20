@@ -14,6 +14,8 @@ tags:
 </a>
 by Stephen B. Heard
 
+(the book I returned late)
+
 ## Getting Started
 ```
 \( A \propto \frac{E \cdot V}{\Gamma \cdot D} \)
