@@ -1,6 +1,6 @@
 ---
 title: "The Extent and Nature of Cyberbullying Towards Transgender in Emerging Adulthood"
-date: 2025-02-22
+date: 2025-03-17
 author: Yuanxi Li
 slug: "cyberbullying-towards-trans"
 draft: false
