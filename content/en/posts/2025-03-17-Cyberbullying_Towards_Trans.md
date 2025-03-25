@@ -109,10 +109,10 @@ Understanding cyberbullying through the RAT framework highlights the need for co
 
 
 ## *Reference*
-Lee, J., Abell, N., & Holmes, J. L. (2015). Validation of measures of cyberbullying perpetration and victimization in emerging adulthood. Research on Social Work Practice, 27(4), 456–467. https://doi.org/10.1177/10497315155785352. 
-Arnett, J. J. (2000). Emerging adulthood: A theory of development from the late teens through the twenties. American Psychologist, 55(5), 469–480. https://doi.org/10.1037//0003-066x.55.5.469
-Hinduja, S., & Patchin, J. W. (2021). Bullying, cyberbullying, and LGBTQ students. https://ed.buffalo.edu/content/dam/ed/alberti/docs/Bullying-Cyberbullying-LGBTQ-Students.pdf
-Abreu, R. L., & Kenny, M. C. (2017). Cyberbullying and LGBTQ youth: A systematic literature review and recommendations for prevention and intervention. Journal of Child &amp; Adolescent Trauma, 11(1), 81–97. https://doi.org/10.1007/s40653-017-0175-7
-Su, D., Irwin, J. A., Fisher, C., Ramos, A., Kelley, M., Mendoza, D. a. R., & Coleman, J. D. (2016). Mental Health Disparities within the LGBT population: A comparison between transgender and nontransgender individuals. Transgender Health, 1(1), 12–20. https://doi.org/10.1089/trgh.2015.0001
-Aizenkot, D. (2021). The Predictability of Routine Activity Theory for Cyberbullying Victimization among Children and Youth: Risk and Protective factors. Journal of Interpersonal Violence, 37(13–14), NP11857–NP11882. https://doi.org/10.1177/0886260521997433
-Navarro, J. N., & Jasinski, J. L. (2011). Going Cyber: Using routine activities theory to predict cyberbullying experiences. Sociological Spectrum, 32(1), 81–94. https://doi.org/10.1080/02732173.2012.628560
+1. Lee, J., Abell, N., & Holmes, J. L. (2015). Validation of measures of cyberbullying perpetration and victimization in emerging adulthood. Research on Social Work Practice, 27(4), 456–467. https://doi.org/10.1177/10497315155785352. 
+2. Arnett, J. J. (2000). Emerging adulthood: A theory of development from the late teens through the twenties. American Psychologist, 55(5), 469–480. https://doi.org/10.1037//0003-066x.55.5.469
+3. Hinduja, S., & Patchin, J. W. (2021). Bullying, cyberbullying, and LGBTQ students. https://ed.buffalo.edu/content/dam/ed/alberti/docs/Bullying-Cyberbullying-LGBTQ-Students.pdf
+4. Abreu, R. L., & Kenny, M. C. (2017). Cyberbullying and LGBTQ youth: A systematic literature review and recommendations for prevention and intervention. Journal of Child &amp; Adolescent Trauma, 11(1), 81–97. https://doi.org/10.1007/s40653-017-0175-7
+5. Su, D., Irwin, J. A., Fisher, C., Ramos, A., Kelley, M., Mendoza, D. a. R., & Coleman, J. D. (2016). Mental Health Disparities within the LGBT population: A comparison between transgender and nontransgender individuals. Transgender Health, 1(1), 12–20. https://doi.org/10.1089/trgh.2015.0001
+6. Aizenkot, D. (2021). The Predictability of Routine Activity Theory for Cyberbullying Victimization among Children and Youth: Risk and Protective factors. Journal of Interpersonal Violence, 37(13–14), NP11857–NP11882. https://doi.org/10.1177/0886260521997433
+7. Navarro, J. N., & Jasinski, J. L. (2011). Going Cyber: Using routine activities theory to predict cyberbullying experiences. Sociological Spectrum, 32(1), 81–94. https://doi.org/10.1080/02732173.2012.628560
