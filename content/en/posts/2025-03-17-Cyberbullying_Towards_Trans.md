@@ -9,14 +9,14 @@ categories:
 tags:
 ---
 
-# Introduction
+## Introduction
 
 Cyberbullying, defined as aggressive or harmful behaviors occurring via the internet, social media, and mobile devices (Lee et al., 2015), remains prevalent even in emerging adulthood. This developmental stage (ages 18–25) is marked by significant life transitions, identity exploration, and increased social media use, exposing individuals to both positive and negative online interactions (Arnett, 2000). While cyberbullying research primarily focuses on adolescents, young adults, particularly LGBTQ+ individuals, remain highly vulnerable (Hinduja & Patchin, 2020). The shift of traditional bullying into online spaces disproportionately affects LGBTQ+ youth, leading to severe mental health consequences such as emotional distress, absenteeism, and substance use (Abreu & Kenny, 2017). 
 
 Among LGBTQ+ individuals, transgender individuals face particularly high rates of cyberbullying and associated mental health challenges, including increased risks of depression, anxiety, and suicidality (Su et al., 2016). However, despite growing concerns, research on cyberbullying in emerging adulthood remains limited, especially regarding transgender individuals. This study aims to address this gap by examining the extent and nature of cyberbullying experienced by transgender and non-binary young adults. By incorporating both quantitative and qualitative methods, this research seeks to enhance understanding of cyberbullying’s impact and inform strategies to create safer online environments.
 
-# Methods
-## Data
+## Methods
+### Data
 The data for this study were collected through an online survey designed to examine the extent and nature of cyberbullying experienced by transgender and nonbinary individuals in emerging adulthood. Participants were recruited through social media platforms such as Reddit, university LGBTQ+ groups, and other digital communities, using a snowball sampling strategy to increase participant reach. A raffle for a $50 gift card was offered as an incentive.
 
 A total of 183 participants were targeted, with final inclusion criteria requiring respondents to complete all sections of the survey. Demographic variables such as age, race/ethnicity, gender identity, sexual orientation, and geographic location were recorded to assess their potential influence on cyberbullying experiences.
