@@ -4,7 +4,7 @@ date: 2025-03-17
 author: Yuanxi Li
 slug: "cyberbullying-towards-trans"
 draft: false
-toc: false
+toc: true
 categories:
 tags:
 ---
