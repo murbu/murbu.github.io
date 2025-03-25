@@ -54,7 +54,7 @@ posts = "/posts/:year/:month/:day/:slug/"
     # Edit by yourself:
     GithubEdit = "https://github.com/murbu/murbu.github.io/edit/master/content/"
     copyright = "&copy;"
-    copyrightYear = "2023-2024"
+    copyrightYear = "2023-2025"
     # Edit by yourself:
     GithubRepo = "https://github.com/murbu/murbu.github.io"
     # Edit by yourself:
