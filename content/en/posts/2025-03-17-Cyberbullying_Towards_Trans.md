@@ -9,6 +9,9 @@ categories:
 tags:
 ---
 
+Author: Yuanxi Li <a href="yuanxili@uw.edu">yuanxili@uw.edu</a>
+Advisor: Rosalind Kichler <a href="rkichler@uw.edu">rkichler@uw.edu</a>
+
 ## Introduction
 
 Cyberbullying, defined as aggressive or harmful behaviors occurring via the internet, social media, and mobile devices (Lee et al., 2015), remains prevalent even in emerging adulthood. This developmental stage (ages 18–25) is marked by significant life transitions, identity exploration, and increased social media use, exposing individuals to both positive and negative online interactions (Arnett, 2000). While cyberbullying research primarily focuses on adolescents, young adults, particularly LGBTQ+ individuals, remain highly vulnerable (Hinduja & Patchin, 2020). The shift of traditional bullying into online spaces disproportionately affects LGBTQ+ youth, leading to severe mental health consequences such as emotional distress, absenteeism, and substance use (Abreu & Kenny, 2017). 
