@@ -9,7 +9,7 @@ categories:
 tags:
 ---
 
-Author: Yuanxi Li <a href="yuanxili@uw.edu">yuanxili@uw.edu</a>
+Author: Yuanxi Li <a href="yuanxili@uw.edu">yuanxili@uw.edu</a> <br/>
 Advisor: Dr. Rosalind Kichler <a href="rkichler@uw.edu">rkichler@uw.edu</a>
 
 ## Introduction
