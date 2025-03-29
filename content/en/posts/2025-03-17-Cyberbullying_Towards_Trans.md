@@ -10,7 +10,7 @@ tags:
 ---
 
 Author: Yuanxi Li <a href="yuanxili@uw.edu">yuanxili@uw.edu</a>
-Advisor: Rosalind Kichler <a href="rkichler@uw.edu">rkichler@uw.edu</a>
+Advisor: Dr. Rosalind Kichler <a href="rkichler@uw.edu">rkichler@uw.edu</a>
 
 ## Introduction
 
