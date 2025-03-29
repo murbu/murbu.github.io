@@ -15,7 +15,7 @@ Nice to meet you! This is Yuanxi Li.
 <br /><br />
 </div>
 Bio written in third person:
-<br />
+<br /><br />
 Yuanxi Li is an undergraduate student at the University of Washington, majoring in Informatics and Sociology, with a deep interest in privacy, cybersecurity, digital inequalities, and computational social sciences. Yuanxi has a strong research background, currently working as an undergraduate research assistant in projects focused on misinformation, cybersecurity, user experience, and social justice issues. Yuanxi is committed to utilizing technology and research to address critical issues related to social justice, cybersecurity, and digital inequalities. In her free time, Yuanxi is interested in Poetry and Photography.
 <br />
 <div align="center">
