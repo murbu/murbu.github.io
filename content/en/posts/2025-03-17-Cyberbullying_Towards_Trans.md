@@ -89,6 +89,18 @@ A hierarchical multiple regression was conducted to assess the influence of demo
 2. Outness to Friends as a Protective Factor
     - Higher outness to friends correlated with lower cyberbullying victimization (β = -4.817, p < 0.05).
 
+### Open Ended Questions
+| Theme                                     | Description                                                    |
+| ----------------------------------------- | -------------------------------------------------------------- |
+| **Harassment/Threats**                    | General bullying, cyberattacks, online threats, cyberstalking. |
+| **Misgendering/Identity Exposure**        | Misgendering or forced outing of gender identity.              |
+| **Rumor/Misinformation**                  | Spreading false rumors about personal identity, relationships. |
+| **Privacy Violation/Doxing**              | Sharing personal or private information without consent.       |
+| **Objectification/Fetishization**         | Sexualization, being targeted by chasers.                      |
+| **Erasure/Non-representation**            | Lack of inclusive options, feeling invisible.                  |
+| **Emotional Harm/Distress**               | Psychological pain, heartbreak, hurtful experiences.           |
+| **Selective Disclosure/Trust Management** | Strategic hiding of identity for protection.                   |
+| **Appearance-Based Bullying**             | Targeting based on physical looks or features.                 |
 
 ## Discussion
 Cyberbullying Among Transgender and Nonbinary Individuals Through the Lens of Routine Activities Theory
